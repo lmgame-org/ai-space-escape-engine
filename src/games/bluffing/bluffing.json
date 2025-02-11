@@ -1,0 +1,188 @@
+{
+    "topics": [
+      {
+        "topic": "Tell about a time you performed for a large audience.",
+        "levels": {
+          "level_1": "I sang at a school talent show.",
+          "level_2": "I performed with a band in front of a festival crowd.",
+          "level_3": "I gave a motivational speech to a hall of university students."
+        }
+      },
+      {
+        "topic": "Describe your first job.",
+        "levels": {
+          "level_1": "I worked at a local coffee shop as my first job.",
+          "level_2": "I helped manage backstage at a theater.",
+          "level_3": "I managed social media for a celebrity."
+        }
+      },
+      {
+        "topic": "Name a celebrity you met by chance.",
+        "levels": {
+          "level_1": "I met a popular chef at a restaurant by chance.",
+          "level_2": "I bumped into a famous musician while hiking.",
+          "level_3": "I once had lunch with a world-famous actor who shared career advice."
+        }
+      },
+      {
+        "topic": "List the languages you speak fluently besides your native one.",
+        "levels": {
+          "level_1": "I speak conversational Spanish.",
+          "level_2": "I am fluent in French and can converse with native speakers easily.",
+          "level_3": "I am fluent in five languages including Mandarin and Russian."
+        }
+      },
+      {
+        "topic": "Share an extreme challenge you’ve completed.",
+        "levels": {
+          "level_1": "I completed a 10k run.",
+          "level_2": "I finished a half-marathon with no formal training.",
+          "level_3": "I completed an ultramarathon through desert terrain."
+        }
+      },
+      {
+        "topic": "Describe your most valuable possession.",
+        "levels": {
+          "level_1": "My most valuable possession is an old family watch.",
+          "level_2": "I own a valuable antique vase that has been in my family for generations.",
+          "level_3": "My most valuable possession is an original Picasso painting."
+        }
+      },
+      {
+        "topic": "Explain who you’ve been mistaken for.",
+        "levels": {
+          "level_1": "People sometimes mistake me for my cousin.",
+          "level_2": "People occasionally mistake me for a popular social media influencer.",
+          "level_3": "People often mistake me for a Hollywood celebrity."
+        }
+      },
+      {
+        "topic": "Describe a unique talent or skill you have.",
+        "levels": {
+          "level_1": "I can solve a Rubik's cube in under a minute.",
+          "level_2": "I can juggle five balls at a time without dropping them.",
+          "level_3": "I can play any song on the piano by ear after hearing it once."
+        }
+      },
+      {
+        "topic": "Describe how you saved a life.",
+        "levels": {
+          "level_1": "I once rescued a kitten from a busy road.",
+          "level_2": "I performed CPR on someone who collapsed at a park.",
+          "level_3": "I once saved someone from drowning while on a remote island."
+        }
+      },
+      {
+        "topic": "Share the most dangerous thing you’ve done.",
+        "levels": {
+          "level_1": "I went rock climbing on a supervised course.",
+          "level_2": "I went skydiving on a dare from friends.",
+          "level_3": "I went BASE jumping off a cliff in a foreign country."
+        }
+      },
+      {
+        "topic": "Describe an impressive encounter with a stranger.",
+        "levels": {
+          "level_1": "A stranger once paid for my coffee.",
+          "level_2": "A stranger I met at an airport gave me career advice.",
+          "level_3": "A stranger on a plane offered me a job at their company."
+        }
+      },
+      {
+        "topic": "Talk about a world record or notable achievement you hold.",
+        "levels": {
+          "level_1": "I hold a minor record at my high school in track.",
+          "level_2": "I won first place in a regional poetry competition.",
+          "level_3": "I hold a world record in a speed-puzzle competition."
+        }
+      },
+      {
+        "topic": "Share your experience of surviving a natural disaster.",
+        "levels": {
+          "level_1": "I experienced a blackout during a severe storm.",
+          "level_2": "I experienced a minor earthquake while on vacation.",
+          "level_3": "I survived a tornado while camping alone in the wilderness."
+        }
+      },
+      {
+        "topic": "Describe an unusual place you’ve visited.",
+        "levels": {
+          "level_1": "I visited a butterfly sanctuary.",
+          "level_2": "I explored an abandoned castle during a trip to Europe.",
+          "level_3": "I explored a sunken shipwreck during a diving trip."
+        }
+      },
+      {
+        "topic": "Discuss a major competition you’ve won.",
+        "levels": {
+          "level_1": "I won a local trivia competition.",
+          "level_2": "I led my team to victory in a state-level debate competition.",
+          "level_3": "I won a national robotics competition at the age of 15."
+        }
+      },
+      {
+        "topic": "Share an unbelievable travel experience.",
+        "levels": {
+          "level_1": "I saw a wild dolphin during a boat tour.",
+          "level_2": "I got lost in a jungle while backpacking and found my way out.",
+          "level_3": "I camped in the Amazon rainforest with only a guide."
+        }
+      },
+      {
+        "topic": "Explain where you unexpectedly met a famous person.",
+        "levels": {
+          "level_1": "I met a local politician at a public event.",
+          "level_2": "I met a famous actor at a small café in Europe.",
+          "level_3": "I had a private dinner with a famous world leader."
+        }
+      },
+      {
+        "topic": "Talk about your pets, if you have any.",
+        "levels": {
+          "level_1": "I have a pet goldfish named Bubbles.",
+          "level_2": "I have two pet parrots that mimic my voice.",
+          "level_3": "I own a pet tiger that I raised from a cub."
+        }
+      },
+      {
+        "topic": "State your college major.",
+        "levels": {
+          "level_1": "My college major was in psychology.",
+          "level_2": "My major in college was astrophysics with a minor in philosophy.",
+          "level_3": "My college major was a triple degree in neuroscience, physics, and art."
+        }
+      },
+      {
+        "topic": "Describe an accomplishment you’re proud of.",
+        "levels": {
+          "level_1": "I taught myself how to play the guitar.",
+          "level_2": "I raised $5,000 for a local animal shelter through crowdfunding.",
+          "level_3": "I created a startup that was featured in Forbes magazine."
+        }
+      },
+      {
+        "topic": "Explain your current job title and role.",
+        "levels": {
+          "level_1": "I am a customer service representative at a retail store.",
+          "level_2": "I work as a junior analyst for a well-known tech company.",
+          "level_3": "I am a top executive at a global tech firm."
+        }
+      },
+      {
+        "topic": "State how many countries you’ve traveled to.",
+        "levels": {
+          "level_1": "I have traveled to two countries outside my own.",
+          "level_2": "I have traveled to seven countries across three continents.",
+          "level_3": "I have traveled to over 30 countries, often on spontaneous trips."
+        }
+      },
+      {
+        "topic": "Describe a skill you’ve learned recently.",
+        "levels": {
+          "level_1": "I recently learned how to bake sourdough bread.",
+          "level_2": "I learned how to edit professional-quality videos for YouTube.",
+          "level_3": "I recently learned how to code an AI system from scratch."
+        }
+      }
+    ]
+  }

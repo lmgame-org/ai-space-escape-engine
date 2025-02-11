@@ -1,0 +1,3 @@
+{
+    "prompt_1": "Generate a ranked list of 3–10 possible target words from most to least likely, ensuring all comply with and are inferred from the game history. Output in this format: 'At this step, the model is thinking about: <object list>'. Then provide a brief hint for the user about how to what next question to ask. Keep your response short and do not generate other content."
+}

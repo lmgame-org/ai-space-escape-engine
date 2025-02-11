@@ -1,0 +1,64 @@
+Game Arena API Documentation
+
+General Endpoint
+
+Endpoint: /
+Method: GET
+Description:  
+Returns a welcome message to confirm the server is running.
+
+Akinator Game Endpoints
+
+Endpoint: /akinator_start
+Method: POST
+Description:  
+Starts a new Akinator game session and generates a unique session ID. Returns the initial system prompt for the game.
+
+Endpoint: /akinator_ask_question
+Method: POST
+Description:  
+Sends the user's response to the current AI question in the Akinator game. Receives the AI's next question or guess based on the conversation.
+
+Endpoint: /akinator_end_game
+Method: POST
+Description:  
+Ends an ongoing Akinator game session using the provided session ID. Confirms the termination of the game.
+
+Taboo Game Endpoints
+
+Endpoint: /taboo_start
+Method: POST
+Description:  
+Initiates a new Taboo game session and generates a unique session ID. Returns the system prompt and the secret word for the game.
+
+Endpoint: /taboo_ask_question
+Method: POST
+Description:  
+Submits the user's response to the current AI prompt in the Taboo game. Receives the AI's next clue or determines if the game has ended.
+
+Endpoint: /taboo_end_game
+Method: POST
+Description:  
+Terminates an active Taboo game session using the provided session ID. Confirms the end of the game session.
+
+Bluffing Game Endpoints
+
+Endpoint: /bluffing_start
+Method: POST
+Description:  
+Starts a new Bluffing game session and generates a unique session ID. Returns the system prompt, a system question, and instructions for the initial statement.
+
+Endpoint: /bluffing_provide_statement
+Method: POST
+Description:  
+Submits the user's initial statement and its truthfulness (True/False) to begin the Bluffing game. Triggers the AI to ask the first question based on the statement.
+
+Endpoint: /bluffing_ask_question
+Method: POST
+Description:  
+Sends the user's response to the AI's current question in the Bluffing game. Receives the AI's next question or its final guess regarding the statement's truthfulness.
+
+Endpoint: /bluffing_end_game
+Method: POST
+Description:  
+Ends an active Bluffing game session using the provided session ID. Confirms the termination of the game session.

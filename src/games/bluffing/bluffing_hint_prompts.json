@@ -1,0 +1,3 @@
+{
+    "prompt_1": "Predict whether the user's statement is true using one of five options: True, Possibly true, Unknown, Possibly false, False. Begin neutrally, defaulting to 'Unknown' if uncertain, and refine based on justification. Output in this format: 'At this step, the model believe your statement is: <prediction>'\n\nConclude with a very concise next-step hint for the user to respond. Keep your response short and don't not include the next question at this step."
+}
