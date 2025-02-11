@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### Experience the Games
 
-1. Launch the backend with
+1. Launch your backend with
 ```
 python ./src/serve.py
 ```
