@@ -51,3 +51,15 @@ python ./src/serve.py
 ```
 
 2. Use [ngrok](https://ngrok.com/) to perform port forwarding to make this accessible on WAN.
+
+
+### Citation
+If you find this repository helpful, Please kindly cite:
+```
+article{hu2024gamearena,
+  title={GameArena: Evaluating LLM Reasoning through Live Computer Games},
+  author={Hu, Lanxiang and Li, Qiyu and Xie, Anze and Jiang, Nan and Stoica, Ion and Jin, Haojian and Zhang, Hao},
+  journal={arXiv preprint arXiv:2412.06394},
+  year={2024}
+}
+```
