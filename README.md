@@ -20,6 +20,8 @@
   </a>
 </p>
 
+This repo features the backend code for the Roblox game we built, [AI Space Escape](https://www.roblox.com/games/114904064694961/AI-Space-Escape), offering an unique experience to reason with AI. We design evaluation techniques to rank state-of-the-art large language models (LLMs). Our mission is to enable engaging gameplay while evaluating a variety of large-scale AI models and systems.
+
 
 ## AI Space Escape Engine (Interfaced with Roblox API)
 
