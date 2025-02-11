@@ -5,7 +5,7 @@
 <div align="center"><h1>&nbsp;AI Space Escape</h1></div>
 
 <p align="center">
-| <a href="https://arxiv.org/pdf/2412.06394"><b>Paper</b></a> | <a href="https://lmgame.org/#/blog/ai_space_escape/"><b>Blog</b></a> |
+| <a href="https://arxiv.org/pdf/2412.06394"><b>Paper</b></a> | <a href="https://lmgame.org/#/blog/ai_space_escape/"><b>Blog</b></a> | <a href="https://discord.gg/pKhAhVfY"><b>Discord</b></a>  | <a href="https://x.com/largemodelgame"><b>X</b></a> |  <a href="https://www.roblox.com/games/114904064694961/AI-Space-Escape"><b>Roblox Game</b></a>
 </p>
 
 <p align="center">
