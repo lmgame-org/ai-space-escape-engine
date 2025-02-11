@@ -41,9 +41,7 @@ pip install -r requirements.txt
 
 ### Set Up API Endpoints
 
-1. Update `config.py` with `OPENAI_API_KEY`.
-
-2. Navigate to `game-arena-engine/src/config`, fill in `YOUR_API_KEY`.
+1. Navigate to `game-arena-engine/src/config`, fill in `YOUR_API_KEY`.
 
 ### Experience the Games
 
