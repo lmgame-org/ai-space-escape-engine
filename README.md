@@ -1,11 +1,11 @@
 <p align="center">
-<img src="assets/img/logo.png" alt="AI-SPACE-ESCAPE" width="220" align="center">
+<img src="img/pic1_rectangle.jpg" alt="AI-SPACE-ESCAPE" width="500" align="center">
 </p>
 
 <div align="center"><h1>&nbsp;AI Space Escape</h1></div>
 
 <p align="center">
-| <a href="https://arxiv.org/pdf/2412.06394"><b>Paper</b></a> | <a href="https://lmgame.org/#/blog/ai_space_escape/"><b>Blog</b></a> |
+| <a href="https://arxiv.org/pdf/2412.06394"><b>Paper</b></a> | <a href="https://lmgame.org/#/blog/ai_space_escape/"><b>Blog</b></a> | <a href="https://discord.gg/pKhAhVfY"><b>Discord</b></a>  | <a href="https://x.com/largemodelgame"><b>X</b></a> |  <a href="https://www.roblox.com/games/114904064694961/AI-Space-Escape"><b>Roblox Game</b></a>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
   </a>
 </p>
+
+This repo features the backend code for the Roblox game we built, [AI Space Escape](https://www.roblox.com/games/114904064694961/AI-Space-Escape), offering an unique experience to reason with AI. We design evaluation techniques to rank state-of-the-art large language models (LLMs). Our mission is to enable engaging gameplay while evaluating a variety of large-scale AI models and systems.
 
 
 ## AI Space Escape Engine (Interfaced with Roblox API)
@@ -39,9 +41,7 @@ pip install -r requirements.txt
 
 ### Set Up API Endpoints
 
-1. Update `config.py` with `OPENAI_API_KEY`.
-
-2. Navigate to `game-arena-engine/src/config`, fill in `YOUR_API_KEY`.
+1. Navigate to `game-arena-engine/src/config`, fill in `YOUR_API_KEY`.
 
 ### Experience the Games
 
