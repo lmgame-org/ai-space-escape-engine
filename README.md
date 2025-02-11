@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/pic1_rectangle.jpg" alt="AI-SPACE-ESCAPE" width="220" align="center">
+<img src="img/pic1_rectangle.jpg" alt="AI-SPACE-ESCAPE" width="500" align="center">
 </p>
 
 <div align="center"><h1>&nbsp;AI Space Escape</h1></div>
