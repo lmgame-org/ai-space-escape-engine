@@ -1,9 +1,53 @@
-## Game Arena Roblox API
-1) clone or download repo
-2) in cmd change directory to repository
-3) `python -m venv ./venv`
-4) `.\venv\Scripts\activate.bat`
-5) `pip install -r requirements.txt`
-6) `python ./src/serve.py`
-7) Update `config.py` with OPENAI_API_KEY  
-8) Use [ngrok](https://ngrok.com/) to perform port forwarding to make this accessible on WAN.
+<p align="center">
+<img src="assets/img/logo.png" alt="AI-SPACE-ESCAPE" width="220" align="center">
+</p>
+
+<div align="center"><h1>&nbsp;AI Space Escape</h1></div>
+
+<p align="center">
+| <a href="https://arxiv.org/pdf/2412.06394"><b>Paper</b></a> | <a href="https://lmgame.org/#/blog/ai_space_escape/"><b>Blog</b></a> |
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/Apache-2.0">
+    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
+  </a>
+  <a href="https://github.com/lmgame-org/ai-space-escape-engine/issues">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
+  </a>
+  <a href="https://github.com/lmgame-org/ai-space-escape-engine/pulls">
+    <img src="https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
+  </a>
+</p>
+
+
+## AI Space Escape Engine (Interfaced with Roblox API)
+
+### Installation
+
+1. Clone this repository:
+```
+git clone https://github.com/lmgame-org/game-arena-engine.git
+cd game-arena-engine
+```
+2. Install dependency:
+```
+python -m venv ./venv
+.\venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+### Set Up API Endpoints
+
+1. Update `config.py` with `OPENAI_API_KEY`.
+
+2. Navigate to `game-arena-engine/src/config`, fill in `YOUR_API_KEY`.
+
+### Experience the Games
+
+1. Launch the backend with
+```
+python ./src/serve.py
+```
+
+2. Use [ngrok](https://ngrok.com/) to perform port forwarding to make this accessible on WAN.
